@@ -95,3 +95,6 @@ gcloud beta projects move <source_project_id> --organization <source_organizatio
 ```
 
 This comprehensive documentation should guide you through the process of migrating a project between organizations on Google Cloud Platform. Let me know if you have any questions or need further clarification!
+
+###### **Refrence:** https://cloud.google.com/resource-manager/docs/project-migration
+###### **Handle special cases:** https://cloud.google.com/resource-manager/docs/handle-special-cases
